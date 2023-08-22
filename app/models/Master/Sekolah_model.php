@@ -4,9 +4,9 @@ use Ramsey\Uuid\Uuid;
 use PhpOffice\PhpSpreadsheet\IOFactory;
 use PhpOffice\PhpSpreadsheet\Cell\Coordinate;
 
-class Walikelas_model
+class Sekolah_model
 {
-    private $table = 'masterwalikelas';
+    private $table = 'mastersekolah';
     private $fields = [
         'name',
         'type',

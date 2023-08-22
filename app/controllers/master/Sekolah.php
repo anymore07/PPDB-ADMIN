@@ -1,6 +1,6 @@
 <?php
 
-class Walikelas extends Controller
+class Sekolah extends Controller
 {
     public $model_name = "Master";
 
